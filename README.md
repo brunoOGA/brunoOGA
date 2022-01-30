@@ -6,7 +6,7 @@
 </div>
 <br>
 <ul>
-  <li>🔭 Hoje trabalho com desenvolvimento móvel.</li>
+  <li>🔭 Hoje trabalho com desenvolvimento de aplicativo móvel</li>
   <li>🌱 Estudando react, react-native, node e kotlin.</li>
   <li>📫 Contate-me no email: bruno.ogarruda@gmail.com</li>
 </ul>
