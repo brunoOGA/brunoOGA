@@ -7,19 +7,17 @@
 <br>
 <ul>
   <li>🔭 Hoje trabalho com desenvolvimento de aplicativo móvel</li>
-  <li>🌱 Estudando react, react-native, node e kotlin.</li>
+  <li>🌱 Estudando react-native, swift.</li>
   <li>📫 Contate-me no email: bruno.ogarruda@gmail.com</li>
 </ul>
-
+https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/apple/apple-original.svg
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="html5" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="css3" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="javascript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="typescript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="nodejs" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="react" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="jest" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img align="center" alt="swift" height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/swift/swift-original.svg" />
+  <img align="center" alt="ios" height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/apple/apple-original.svg" />
   <img align="center" alt="kotlin" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   <img align="center" alt="java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="android" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
