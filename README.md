@@ -7,7 +7,7 @@
 <br>
 <ul>
   <li>🔭 Hoje trabalho com desenvolvimento de aplicativo móvel</li>
-  <li>🌱 Estudando react-native, swift.</li>
+  <li>🌱 Estudando react-native e swift.</li>
   <li>📫 Contate-me no email: bruno.ogarruda@gmail.com</li>
 </ul>
 https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/apple/apple-original.svg
